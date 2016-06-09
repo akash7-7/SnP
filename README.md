@@ -11,3 +11,7 @@ http://cs229.stanford.edu/proj2009/LvDuZhai.pdf
 http://www.thertrader.com/category/data-science/
 
 Machine Learning for Trading (Q-learning and Dyna)
+
+Lates:
+
+https://www.quantstart.com/articles/Forecasting-Financial-Time-Series-Part-1
